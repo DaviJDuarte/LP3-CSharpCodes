@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kPCMeb0IkOlrR+eoTKSP8bYW4MPDKXFWVr09xcQigrXo4bwpw8DhG0CMg+rLUn8JDDx8gtsnovAUFgzmsXZn/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davij\\OneDrive\\Desktop\\LP3-C#_Codes\\LP3-CSharp_Codes-main\\Atividade3\\Aula10DB\\Aula10DB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davij\\.nuget\\packages\\microsoft.data.sqlite\\7.0.5\\microsoft.data.sqlite.7.0.5.nupkg.sha512",
+    "C:\\Users\\davij\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
+    "C:\\Users\\davij\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\davij\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\davij\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\davij\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\davij\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
